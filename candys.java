@@ -1,7 +1,7 @@
 package lab03;
 
 public class candys extends sweet implements Inaslednik2{
-	private String country_candys;
+	public String country_candys;
 	private double ves_candys;
 	
 	public String getCountry() {
